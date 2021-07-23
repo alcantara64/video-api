@@ -1,0 +1,1 @@
+{"version":3,"file":"prototypes.loader.js","sourceRoot":"","sources":["../../src/loaders/prototypes.loader.ts"],"names":[],"mappings":";;AAEA,SAAwB,IAAI;IAC1B,0GAA0G;IAC1G,MAAM,CAAC,cAAc,CAAC,MAAM,CAAC,SAAS,EAAE,QAAQ,EAAE;QAChD,KAAK,EAAE,MAAM,CAAC,SAAS,CAAC,QAAQ;KACjC,CAAC,CAAC;AACL,CAAC;AALD,uBAKC"}
