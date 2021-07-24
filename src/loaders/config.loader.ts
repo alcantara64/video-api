@@ -44,7 +44,7 @@ const MONGO_DB_URL_NOPW = getMongoDbUrl(false);
 export default {
   nodeEnv: process.env.NODE_ENV,
   server: {
-    port: process.env.SERVER_PORT ? parseInt(process.env.SERVER_PORT, 10) : 5000,
+    port: process.env.PORT ? parseInt(process.env.PORT, 10) : 5000,
   },
   jwtSecret: jwtSecret,
   logging: {
